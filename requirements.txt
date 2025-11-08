@@ -1,0 +1,5 @@
+pandas
+torch
+unstructured
+unstructured[pdf]
+PyMuPDF

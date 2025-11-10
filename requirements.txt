@@ -5,3 +5,4 @@ matplotlib
 openai
 pydantic
 guardrails-ai
+ollama

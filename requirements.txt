@@ -2,3 +2,6 @@ unstructured[pdf]
 PyMuPDF
 dotenv
 matplotlib
+openai
+pydantic
+guardrails-ai
